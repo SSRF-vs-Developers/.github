@@ -21,7 +21,7 @@ To use our specific versions, e.g., for the academic artifact evaluation, use th
 They use pinned versions.
 
 ## `SURFER`
-[We recommend building via docker as well.](https://github.com/SSRF-vs-Developers/surfer)
+https://github.com/SSRF-vs-Developers/surfer
 
 ## Build Instructions
 todo
