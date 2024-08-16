@@ -17,6 +17,8 @@ Cite us via:
 ## CPG Generation
 For recent versions, check out the sister organization: https://www.github.com/PHP-CPG/
 
+The corresponding author for the CPG generator is Simon Koch. 
+
 To use our specific versions, e.g., for the academic artifact evaluation, use the Dockerfiles provided in https://github.com/SSRF-vs-Developers/CpgGeneration.
 They use pinned versions.
 
