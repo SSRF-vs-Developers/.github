@@ -8,11 +8,15 @@ On a high-level it is made out of two layers:
 Cite us via: 
 ```
 @inproceedings{USENIX:Wessels:2024,
-  title={SSRF vs. Developers: A Study of SSRF-Defenses in PHP Applications}
-  authors={Wessels, Malte and Koch, Simon and Pellegrino, Giancarlo and Johns, Martin},
-  venue={USENIX Security},
-  year={2024}
+ author = {Wessels, Malte and Koch, Simon and Pellegrino, Giancarlo and Johns, Martin},
+ booktitle = {33rd USENIX Security Symposium (USENIX Security 2024)},
+ organization = {Usenix},
+ title = {SSRF vs. Developers: A Study of SSRF-Defenses in PHP Applications},
+ tool = {https://github.com/SSRF-vs-Developers},
+ url = {https://www.ias.tu-bs.de/publications/ssrf-usenix-2024.pdf},
+ year = {2024}
 }
+
 ```
 ## CPG Generation
 For recent versions, check out the sister organization: https://www.github.com/PHP-CPG/
